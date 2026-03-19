@@ -31,9 +31,9 @@ The system supports two types of user inputs:
   "I need an alloy with high conductivity and moderate strength"  
 - Keyword matching is used to map terms like "high", "low", and "moderate" to numerical ranges  
 
-### 2. Numeric Range Input
+### 2. Slider Range Input
 
-- Users can directly specify minimum and maximum values for each property  
+- Users can use the slider to specify minimum and maximum values for each property  
 
 Example:
 - Conductivity: 80–95 %IACS  
