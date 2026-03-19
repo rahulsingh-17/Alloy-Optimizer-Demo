@@ -2,6 +2,13 @@
 
 This project focuses on predicting the optimal alloy composition for **copper-based alloys** based on user-defined mechanical and electrical property requirements.
 
+## Web Application
+
+A web-based interface has been developed for this project.
+
+CuAlloy_Optimiser.html
+alloy_nlp_ui.html
+
 ## Overview
 
 The system uses machine learning models to recommend alloy compositions that best match desired target properties, including:
