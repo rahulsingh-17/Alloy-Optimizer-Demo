@@ -72,3 +72,7 @@ Example:
 - scikit-learn  
 - pandas  
 - numpy  
+
+## How to Run
+
+Just clone or copy HTML file and run HTML file in your browser it will start functioning.
