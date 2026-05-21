@@ -1,4 +1,4 @@
-# Alloy Composition Optimization (Copper-Based Alloys)
+# Alloy Composition Optimization Demo (only Copper-Based Alloys)
 
 This project focuses on predicting the optimal alloy composition for **copper-based alloys** based on user-defined mechanical and electrical property requirements.
 
